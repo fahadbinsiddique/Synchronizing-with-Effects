@@ -3,7 +3,7 @@ import Comments from "./components/Comments";
 const App = () => {
   return (
     <div>
-      <Comments postId="4" />
+      <Comments postId="5" />
     </div>
   );
 };
